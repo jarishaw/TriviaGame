@@ -1,5 +1,8 @@
 body{
 	text-align: center;
+	font-family: Permanent Marker;
+	background-color: black;
+	background-image: url("../images/film-wallpapers.jpg");
 }
 
 h1{
@@ -9,6 +12,38 @@ h1{
 #startButton{
 	width: 200px;
 	height: 75px;
-	font-size: 18px;
+	font-size: 24px;
+	background-color: gray;
 }
 
+#trivia{
+	color: white;
+}
+
+#showTime{
+font-size: 50px;
+color: white;
+
+}
+
+#doneButton{
+	width: 200px;
+	height: 75px;
+	font-size: 24px;
+	background-color: gray;
+}
+
+#results h2{
+	font-size: 36px;
+
+}
+
+#results{
+	color: white;
+	font-size: 20px;
+}
+
+.jumbotron{
+	background-color: white;
+	opacity: 30%;
+}
