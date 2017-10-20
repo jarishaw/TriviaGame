@@ -211,9 +211,11 @@ function decrement() {
 
 	if (number === 0){
 
-	stop();
+	stop(); 
 
 	$("#results").show();
+
+	submittedAnswers();
 
 	$("#wrapper").hide();
 
