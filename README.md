@@ -1,5 +1,5 @@
 # TriviaGame
-### Created a trivia game app using JavaScript, jQuery, HTML, and CSS.
+### Created a trivia game app using JavaScript, jQuery, HTML, Bootstrap and CSS.
 
 * Created a trivia form with multiple choice options.
 * Player has limited amount of time to complete quiz.
